@@ -1,4 +1,4 @@
 # arpita-demo
 This is my first Git Repository.
 <br>
-Author - Arpita Sahoo
+Author - Arpita sahoo (git)
